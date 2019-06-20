@@ -1,6 +1,6 @@
 # Dilarang Keras Untuk Menjual Kembali Dan Mengshare Tools Ini 
 # Copyright: Ramadhan
-# Ask me on Telegram: t.me/Ramadhan
+# Ask me on Fecebook:Ramadhan
 # rebuild copyright can't make u real programmer :)
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
